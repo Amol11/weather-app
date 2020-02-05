@@ -7,3 +7,5 @@ node app.js --IPaddress="any valid ip address"
 or
 node appp.js -a
 (to return weather at your own IP Address)
+
+https://user-images.githubusercontent.com/33172323/73853670-424e3e00-4857-11ea-941c-58af5dc391a4.jpg
